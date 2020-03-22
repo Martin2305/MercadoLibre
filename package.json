@@ -1,0 +1,16 @@
+{
+  "name": "martin",
+  "version": "1.0.0",
+  "description": "Test práctico para MercadoLibre",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "author": "Martin Villanueva",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}

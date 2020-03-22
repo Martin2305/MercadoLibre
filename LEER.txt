@@ -1,0 +1,13 @@
+A continuación dejo una guía de uso de la app:
+
+Vistas:
+items?id=ID --> Vista de la pagina de publicación del producto. EJ: http://127.0.0.1:4444/search?q=Celular
+search?q=Producto --> Vista de la pagina de búsqueda. EJ: http://127.0.0.1:4444/items?id=MLA841841312
+
+APIS para consultas:
+api/search?q=Producto  ---> Trae los datos del producto. EJ: http://127.0.0.1:4444/api/search/Celular
+api/items?id=ID  --> Trae los datos de la publicación. EJ: http://127.0.0.1:4444/api/items?id=MLA841841312
+
+
+También dejo en el proyecto, un video corto de la APP funcionando. 
+El mismo se encuentra como app-meli.mp4
